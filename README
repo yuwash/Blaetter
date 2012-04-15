@@ -1,0 +1,11 @@
+Blaetter is just a simple home book collector that fetches all the meta info
+from worldcat. I (author: Yushin Washio) release it for GNU GPL 3 (if 
+interested, go here: http://www.gnu.org/licenses/gpl.html) so you can almost 
+freely share it, edit it etc. This currently just needs python standard
+library, so if you don't have python, you definitely ought to get it from
+http://python.org
+How to use it?: python blaetter.py
+then give your bookshelf a pretty name, add some books by giving them nice
+unique (this is important so that they really feel valued) name, finding their
+ISBN on the back (or maybe somewhere else, who knows??), add another book etc.
+them finish by writing "q" for book name.
